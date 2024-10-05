@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Weixin Wang, a second year Ph.D. student in Prof. <a href='https://panxulab.github.io/'>Pan Xu’s lab at Duke University. 
+I am Weixin Wang, a second year Ph.D. student in Prof. Pan Xu(https://panxulab.github.io/)’s lab at Duke University. 
 
 My current research interests focus on reinforcement learning theory, particularly Thompson sampling and other randomized exploration methods.
 
