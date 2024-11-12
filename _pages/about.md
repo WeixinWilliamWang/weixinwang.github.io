@@ -25,7 +25,7 @@ My current research interests focus on reinforcement learning theory, particular
 
 
 # 🔥 News
-- *2024.9*: &nbsp;🎉🎉 Paper ''Randomized Exploration in Cooperative Multi-agent RL'' is accepted to NeurIPS 2024!
+- *2024.9*: &nbsp;🎉🎉 Paper ''Randomized Exploration in Cooperative Multi-agent RL'' [paper link](https://arxiv.org/abs/2404.10728) is accepted to NeurIPS 2024!
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
