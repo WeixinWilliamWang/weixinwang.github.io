@@ -33,14 +33,13 @@ My current research interests focus on **reinforcement learning theory**, partic
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div> -->
 <!-- <div class='paper-box-text' markdown="1"> -->
 
-<li><span class="paper-title"><b>Randomized Exploration in Cooperative Multi-Agent Reinforcement Learning<b> </span> <br>
-  Hao-Lun Hsu*, <b>Weixin Wang*</b>, Miroslav Pajic, Pan Xu<br>
-  <span class="publisher">In Proc. of the 38th Conference on Advances in Neural Information Processing Systems (<b>NeurIPS</b>), Vancouver, Canada, 2024.</span><br>
-  [<a href="https://arxiv.org/abs/2404.10728">Paper</a>] [<a href="https://github.com/panxulab/MARL-CoopTS">Code</a>]</li>
+- <b>Randomized Exploration in Cooperative Multi-Agent Reinforcement Learning<b>
+  Hao-Lun Hsu*, <b>Weixin Wang*</b>, Miroslav Pajic, Pan Xu
+  In Proc. of the 38th Conference on Advances in Neural Information Processing Systems (<b>NeurIPS</b>), Vancouver, Canada, 2024.
+  [Paper](https://arxiv.org/abs/2404.10728) [Code](https://github.com/panxulab/MARL-CoopTS)
 
-<li><span class="paper-title"><b>Upper and Lower Bounds for Distributionally Robust Off-Dynamics Reinforcement Learning</b></span> [<a href="https://arxiv.org/abs/2409.20521">Paper</a>]<br>
-    Zhishuai Liu*, <b>Weixin Wang*</b>, Pan Xu, <span class="publisher">arXiv: 2409.20521.</span><br></li>
-
+- <b>Upper and Lower Bounds for Distributionally Robust Off-Dynamics Reinforcement Learning</b> [Paper](https://arxiv.org/abs/2409.20521)
+  Zhishuai Liu*, <b>Weixin Wang*</b>, Pan Xu
   
 <!-- - **Randomized Exploration in Cooperative Multi-Agent Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2404.10728) Hao-Lun Hsu*, **Weixin Wang***, Miroslav Pajic, Pan Xu -->
 
