@@ -33,6 +33,16 @@ My current research interests focus on reinforcement learning theory, particular
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div> -->
 <!-- <div class='paper-box-text' markdown="1"> -->
 
+<li><span class="paper-title">Randomized Exploration in Cooperative Multi-Agent Reinforcement Learning</span> <br>
+  Hao-Lun Hsu*, Weixin Wang*, Miroslav Pajic, <b>Pan Xu</b><br>
+  <span class="publisher">In Proc. of the 38th Conference on Advances in Neural Information Processing Systems (<b>NeurIPS</b>), Vancouver, Canada, 2024.</span><br>
+  [<a data-toggle="collapse" href="#hsu2024randomized-abstract" class="my_details">Summary</a>] [<a href="https://arxiv.org/abs/2404.10728">Paper</a>] [<a href="https://github.com/panxulab/MARL-CoopTS">Code</a>] 
+<div>
+  <p id="hsu2024randomized-abstract" class="abstract collapse">We present the first study on provably efficient randomized exploration in cooperative multi-agent reinforcement learning (MARL). We propose a unified algorithm framework for randomized exploration in parallel Markov Decision Processes (MDPs), and two Thompson Sampling (TS)-type algorithms, CoopTS-PHE and CoopTS-LMC, incorporating the perturbed-history exploration (PHE) strategy and the Langevin Monte Carlo exploration (LMC) strategy respectively, which are flexible in design and easy to implement in practice. For a special class of parallel MDPs where the transition is (approximately) linear, we theoretically prove that both CoopTS-PHE and CoopTS-LMC achieve a $\widetilde{\mathcal{O}}(d^{3/2}H^2\sqrt{MK})$ regret bound with communication complexity $\widetilde{\mathcal{O}}(dHM^2)$, where $d$ is the feature dimension, $H$ is the horizon length, $M$ is the number of agents, and $K$ is the number of episodes. This is the first theoretical result for randomized exploration in cooperative MARL. We evaluate our proposed method on multiple parallel RL environments, including a deep exploration problem (\textit{i.e.,} $N$-chain), a video game, and a real-world problem in energy systems. Our experimental results  support that our framework can achieve better performance, even under conditions of misspecified transition models. 
+  </p>
+</div>
+</li><br>
+
 - **Randomized Exploration in Cooperative Multi-Agent Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2404.10728) Hao-Lun Hsu*, **Weixin Wang***, Miroslav Pajic, Pan Xu
 
 <!-- [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) -->
