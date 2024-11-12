@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Weixin Wang"
-description              : "Weixin Wang, a second year Ph.D. student in department of ECE at Duke University. "
+description              : "Weixin Wang, a 2nd year Ph.D. student at Duke University. "
 repository               : "WeixinWilliamWang/weixinwang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Weixin Wang"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Duke University"
-  location         : "Durham, North Carolina, United States"
+  location         : "Durham, NC, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=WluAK5cAAAAJ&hl=zh-CN"
