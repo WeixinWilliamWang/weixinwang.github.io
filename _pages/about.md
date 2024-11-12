@@ -25,7 +25,7 @@ My current research interests focus on reinforcement learning theory, particular
 
 
 # 🔥 News
-- *2024.9*: &nbsp;🎉🎉 **Randomized Exploration in Cooperative Multi-agent RL** is accepted as [**Poster**](https://nips.cc/virtual/2024/poster/96449) to **NeurIPS 2024**!
+- *2024.9*: &nbsp;🎉🎉 **Randomized Exploration in Cooperative Multi-agent Reinforcement Learning** is accepted as [**Poster**](https://nips.cc/virtual/2024/poster/96449) to **NeurIPS 2024**!
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
@@ -39,7 +39,12 @@ My current research interests focus on reinforcement learning theory, particular
   [<a data-toggle="collapse" href="#hsu2024randomized-abstract" class="my_details">Summary</a>] [<a href="https://arxiv.org/abs/2404.10728">Paper</a>] [<a href="https://github.com/panxulab/MARL-CoopTS">Code</a>]
 </li><br>
 
-- **Randomized Exploration in Cooperative Multi-Agent Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2404.10728) Hao-Lun Hsu*, **Weixin Wang***, Miroslav Pajic, Pan Xu
+<li><span class="paper-title"><b>Upper and Lower Bounds for Distributionally Robust Off-Dynamics Reinforcement Learning</b></span> [<a href="https://arxiv.org/abs/2409.20521">Paper</a>]<br>
+    Zhishuai Liu*, <b>Weixin Wang*</b>, Pan Xu, <span class="publisher">arXiv: 2409.20521.</span><br>  
+  </li><br>
+
+  
+<!-- - **Randomized Exploration in Cooperative Multi-Agent Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2404.10728) Hao-Lun Hsu*, **Weixin Wang***, Miroslav Pajic, Pan Xu -->
 
 <!-- [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) -->
 
