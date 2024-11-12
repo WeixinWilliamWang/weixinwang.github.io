@@ -36,7 +36,7 @@ My current research interests focus on reinforcement learning theory, particular
 <li><span class="paper-title"><b>Randomized Exploration in Cooperative Multi-Agent Reinforcement Learning<b></span> <br>
   Hao-Lun Hsu*, <b>Weixin Wang*</b>, Miroslav Pajic, Pan Xu<br>
   <span class="publisher">In Proc. of the 38th Conference on Advances in Neural Information Processing Systems (<b>NeurIPS</b>), Vancouver, Canada, 2024.</span><br>
-  [<a data-toggle="collapse" href="#hsu2024randomized-abstract" class="my_details">Summary</a>] [<a href="https://arxiv.org/abs/2404.10728">Paper</a>] [<a href="https://github.com/panxulab/MARL-CoopTS">Code</a>]
+  [<a href="https://arxiv.org/abs/2404.10728">Paper</a>] [<a href="https://github.com/panxulab/MARL-CoopTS">Code</a>]
 </li><br>
 
 <li><span class="paper-title"><b>Upper and Lower Bounds for Distributionally Robust Off-Dynamics Reinforcement Learning</b></span> [<a href="https://arxiv.org/abs/2409.20521">Paper</a>]<br>
