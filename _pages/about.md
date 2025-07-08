@@ -19,12 +19,13 @@ redirect_from:
 
 I am Weixin Wang, a second year Ph.D. student in [**Prof. Pan Xu**](https://panxulab.github.io/)’s lab at Duke University. 
 
-My current research interests focus on **reinforcement learning theory**, particularly **Thompson sampling** and other **randomized exploration methods**.
+My current research interests focus on **reinforcement learning theory**, particularly **Thompson sampling** and other **randomized exploration methods**. I am also interested in **robust RL**, **in-context RL** and **diffusion models**.
 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
+- *2025.5*: &nbsp;🎉🎉 **Sample Complexity of Distributionally Robust Off-Dynamics Reinforcement Learning with Online Interaction** is accepted as [**Poster**](https://icml.cc/virtual/2025/poster/44017) to **ICML 2025**!
 - *2024.9*: &nbsp;🎉🎉 **Randomized Exploration in Cooperative Multi-agent Reinforcement Learning** is accepted as [**Poster**](https://nips.cc/virtual/2024/poster/96449) to **NeurIPS 2024**!
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
@@ -44,6 +45,12 @@ My current research interests focus on **reinforcement learning theory**, partic
   Zhishuai Liu*, <b>Weixin Wang*</b>, Pan Xu
 
   *Preprint arXiv: 2409.20521.*
+
+- **Sample Complexity of Distributionally Robust Off-Dynamics Reinforcement Learning with Online Interaction** [[Paper]](https://openreview.net/pdf?id=pJdMOKqdSV)
+  Yiting He, Zhishuai Liu, <b>Weixin Wang*</b>, Pan Xu
+  
+  *In Proc. of the 42nd International Conference on Machine Learning (ICML), Vancouver, Canada, 2025.*
+
   
 <!-- - **Randomized Exploration in Cooperative Multi-Agent Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2404.10728) Hao-Lun Hsu*, **Weixin Wang***, Miroslav Pajic, Pan Xu -->
 
