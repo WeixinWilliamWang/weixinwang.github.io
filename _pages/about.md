@@ -25,8 +25,6 @@ I am Weixin Wang, a second year Ph.D. student in [**Prof. Pan Xu**](https://panx
 My current research interests focus on **Reinforcement Learning Theory**, particularly **Thompson Sampling** and other **Randomized Exploration Methods**. I am also interested in **Robust RL**, **In-Context RL** and **Diffusion Models**.
 
 
-<!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
-
 <span id="news"></span>
 # 🔥 News
 - *2025.5*: &nbsp;🎉🎉 **Sample Complexity of Distributionally Robust Off-Dynamics Reinforcement Learning with Online Interaction** is accepted as [**Poster**](https://icml.cc/virtual/2025/poster/44017) to **ICML 2025**!
@@ -41,40 +39,27 @@ My current research interests focus on **Reinforcement Learning Theory**, partic
 
 - **Randomized Exploration in Cooperative Multi-Agent Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2404.10728) [[Code]](https://github.com/panxulab/MARL-CoopTS)
 
-  Hao-Lun Hsu*, <b>Weixin Wang*</b>, Miroslav Pajic, Pan Xu
+  <p>Hao-Lun Hsu<sup>*</sup>, <b>Weixin Wang<sup>*</sup></b>, Miroslav Pajic, Pan Xu</p>
   
   *In Proc. of the 38th Conference on Advances in Neural Information Processing Systems (<b>NeurIPS</b>), Vancouver, Canada, 2024.*
 
 - **Upper and Lower Bounds for Distributionally Robust Off-Dynamics Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2409.20521)
   
-  Zhishuai Liu*, <b>Weixin Wang*</b>, Pan Xu
+  <p>Zhishuai Liu<sup>*</sup>, <b>Weixin Wang<sup>*</sup></b>, Pan Xu</p>
 
   *Preprint arXiv: 2409.20521.*
 
 - **Sample Complexity of Distributionally Robust Off-Dynamics Reinforcement Learning with Online Interaction** [[Paper]](https://openreview.net/pdf?id=pJdMOKqdSV)
 
-  Yiting He*, Zhishuai Liu*, <b>Weixin Wang</b>, Pan Xu
+  <p>Yiting He<sup>*</sup>, Zhishuai Liu<sup>*</sup>, <b>Weixin Wang</b>, Pan Xu</p>
   
   *In Proc. of the 42nd International Conference on Machine Learning (ICML), Vancouver, Canada, 2025.*
 
-  
-<!-- - **Randomized Exploration in Cooperative Multi-Agent Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2404.10728) Hao-Lun Hsu*, **Weixin Wang***, Miroslav Pajic, Pan Xu -->
-
-<!-- [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) -->
-
-<!-- **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun -->
-
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' --> <!--<!--<!-<!-- data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
-<!-- </div> -->
-<!-- </div> -->
-
-<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 <!-- <span id="honors-and-awards"></span> -->
 <!-- # 🎖 Honors and Awards -->
-<!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
-<!-- - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
+<!-- - *2021.10* -->
+
 
 <span id="educations"></span>
 # 📖 Educations
@@ -83,9 +68,9 @@ My current research interests focus on **Reinforcement Learning Theory**, partic
 
 <!-- <span id="invited-talks"></span> -->
 <!-- # 💬 Invited Talks -->
-<!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
-<!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+<!-- - *2021.06*, -->
+
 
 <!-- <span id="internships"></span> -->
 <!-- # 💻 Internships -->
-<!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+<!-- - *2019.05 - 2020.02*, -->
