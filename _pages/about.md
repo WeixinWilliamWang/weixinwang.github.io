@@ -53,7 +53,7 @@ My current research interests focus on **Reinforcement Learning Theory**, partic
 
 - **Sample Complexity of Distributionally Robust Off-Dynamics Reinforcement Learning with Online Interaction** [[Paper]](https://openreview.net/pdf?id=pJdMOKqdSV)
 
-  Yiting He, Zhishuai Liu, <b>Weixin Wang*</b>, Pan Xu
+  Yiting He*, Zhishuai Liu*, <b>Weixin Wang</b>, Pan Xu
   
   *In Proc. of the 42nd International Conference on Machine Learning (ICML), Vancouver, Canada, 2025.*
 
